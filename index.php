@@ -46,7 +46,10 @@
       
       </div>
     
-    
+    <center>
+      Made with ♥️ by <a href="https://github.com/WoIstJay">WoIstJay</a>
+      
+      </center>
     
     
     
