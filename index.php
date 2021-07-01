@@ -19,9 +19,38 @@
       </div>
     <div class="short">
       <h2>Twitch</h2>
-      <p> <a href="https://twitch.tv/mister_spuk">twitch.tv/mister_spuk </a>
+      <p> <a href="https://twitch.tv/mister_spuk">twitch.tv/mister_spuk </a> </p>
       
       </div>
+    <div class="short">
+      
+     <h2>Discord</h2>
+      <p>  <a href="https://discord.gg/DcaKY3FPMx">discord.gg/DcaKY3FPMx </a> </p>
+      
+      </div>
+    
+    <div class="short">
+      
+      <h2>Instagram</h2>
+      <p> <a href="https://instagram.com/mister_spuk"> instagram.com/mister_spuk </a> </p>
+      
+      
+      
+      
+      
+      </div>
+    <div class="short">
+      
+      <h2>Tiktok</h2>
+      <p>  <a href="https://www.tiktok.com/@mister_spuk.twitch"> tiktok.com/@mister_spuk.twitch </a>   <p>
+      
+      </div>
+    
+    
+    
+    
+    
+    
     
         
    </body>
