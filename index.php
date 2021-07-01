@@ -15,9 +15,13 @@
     <div class="card">
       
       <h1>Links Mister_Spuk</h1>
+      <p>Hi, ich bin ein 14 Jähriger Minecraft Noob.  Ich interagiere auch viel und gerne mit meiner Community.  Auch wenn ihr bockt habt mit zu zocken, dann Joint meinem DC. Peace </p>
+      </div>
+    <div class="short">
+      <h2>Twitch</h2>
+      <p> <a href="https://twitch.tv/mister_spuk">twitch.tv/mister_spuk </a>
       
       </div>
-    
     
         
    </body>
