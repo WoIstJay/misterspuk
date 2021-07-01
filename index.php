@@ -45,7 +45,7 @@
       <p>  <a href="https://www.tiktok.com/@mister_spuk.twitch"> tiktok.com/@mister_spuk.twitch </a>   <p>
       
       </div>
-    
+    <div class="footer2">
     <center>
       Made with ♥️ by <a href="https://github.com/WoIstJay">WoIstJay</a>
       
@@ -53,7 +53,7 @@
     
     
     
-    
+    </div>
     
         
    </body>
