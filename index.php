@@ -42,7 +42,7 @@
     <div class="short">
       
       <h2>Tiktok</h2>
-      <p>  <a href="https://www.tiktok.com/@mister_spuk.twitch"> tiktok.com/@mister_spuk.twitch </a>   <p>
+      <p>  <a href="https://www.tiktok.com/@mister_spuk"> tiktok.com/@mister_spuk </a>   <p>
       
       </div>
     <div class="footer2">
